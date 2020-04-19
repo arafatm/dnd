@@ -1,0 +1,72 @@
+## Characters
+
+Jonathan Bittertoe the Dwarf Cleric
+- AC 18 HP 11 PP 11
+
+Rick Barbarosa Human Barbarian
+- AC 14 HP 14 PP 11
+
+McCreery Katy the Wood Elf Ranger
+- AC 15 HP 11 PP 15
+
+Ryan Theo the Halfling Monk
+- AC 15 HP 10 PP 10
+
+Wilkes Tim the Tiefling Warlock
+- AC 14 HP 10 PP 8
+
+Kai Arandelde High Elf Fighter
+- AC 17 HP 11 PP 13
+
+Kaitlyn Human Druid
+- AC 13 HP 10 PP 13
+
+## Creatures
+
+Goblin: AC 15 HP 7 
+- scimitar hit +4 dmg 1d6+2
+- shortbow hit +4 dmg 1d6+2
+- nimble escape: disengage or hide as bonus action
+
+Bugbear: AC 16 HP 27
+- morningstar hit +4 dmg 2d8+2
+- javelin ranged hit +4 dmg 1d6+2 rng 30
+- javelin ranged hit +4 dmg 2d6+2 rng 30
+- surprise attk extra dmg 2d6
+
+Wolf: AC 13 HP 11 Spd 40
+- bite hit +4 dmg 2d4+2 knock prone DC 11 str
+- pack tactics: advantage attack if ally within 5 ft and not incapacitated
+
+Order:
+- 13 theo 5
+- 18 klarg 9 5
+- 21 aranelde
+- 22 Tim 
+- 22 kaitlyn 
+
+## maps
+
+[Faerun](http://forgottenrealms.wikia.com/wiki/Faer%C3%BBn)
+- [Map](https://vignette.wikia.nocookie.net/forgottenrealms/images/a/a0/Faerun_map.jpg/revision/latest?cb=20080923050218)
+
+## Pregens
+
+http://dnd.wizards.com/articles/features/character_sheets
+
+- Dragonborn Sorcerer
+- Drow Rogue
+- Dwarf Cleric
+- Half-Elf Bard
+- Halfling Monk
+- Halfling Rogue
+- Half-Orc Paladin
+- High Elf Fighter
+- High Elf Wizard
+- Human Barbarian
+- Human Cleric
+- Human Druid
+- Human Fighter
+- Human Paladin
+- Tiefling Warlock
+- Wood Elf Ranger
